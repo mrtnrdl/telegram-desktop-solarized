@@ -244,7 +244,7 @@ historyScrollBg: #517c414c; // scroll bar background (adjusted)
 historyScrollBgOver: #517c416b; // scroll bar background with mouse over the scroll bar (adjusted)
 msgInBg: windowBg; // inbox message background
 msgInBgSelected: #c2dcf2; // inbox selected message background (and background of selected text in those messages)
-msgOutBg: #effdde; // outbox message background
+msgOutBg: #eee8d5; // outbox message background
 msgOutBgSelected: #b7dbdb; // outbox selected message background (and background of selected text in those messages)
 msgSelectOverlay: #358cd44c; // overlay which is filling the media parts of selected messages (like in selected photo message)
 msgStickerOverlay: #358cd47f; // overlay which is filling the selected sticker message
@@ -268,7 +268,7 @@ msgInReplyBarSelColor: activeLineFg; // inbox selected message reply outline
 msgOutReplyBarColor: historyOutIconFg; // outbox message reply outline
 msgOutReplyBarSelColor: historyOutIconFgSelected; // outbox selected message reply outline
 msgImgReplyBarColor: msgServiceFg; // sticker message reply outline
-msgInMonoFg: #4e7391; // inbox message monospace text (like a message sent with `test` text)
+msgInMonoFg: #93a1a1; // inbox message monospace text (like a message sent with `test` text)
 msgOutMonoFg: #469165; // outbox message monospace text
 msgInMonoFgSelected: msgInMonoFg; // inbox message monospace text in a selected text or message
 msgOutMonoFgSelected: msgOutMonoFg; // outbox message monospace text in a selected text or message
